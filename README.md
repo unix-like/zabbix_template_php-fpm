@@ -14,9 +14,9 @@
 | php-fpm max listen queue     |                                                   |
 | php-fpm slow requests        |                                                   |
 
-此监控项目共包含2个文件:
+适用于zabbix3.4及以上版本,此监控项目共包含2个文件:
 
-1. userparameter_php5.6.conf
+1. userparameter_php.conf
 2. phpfpm_status.conf
 3. php.xml
 
